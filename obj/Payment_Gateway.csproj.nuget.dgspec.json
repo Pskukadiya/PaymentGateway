@@ -54,6 +54,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.2, )"
+            },
+            "Razorpay": {
+              "target": "Package",
+              "version": "[3.1.4, )"
             }
           },
           "imports": [
